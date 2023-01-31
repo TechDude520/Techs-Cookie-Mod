@@ -1,1 +1,1 @@
-#This is just a Cookie Clicker mod i am working on
+This is just a Cookie Clicker mod i am working on
